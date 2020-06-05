@@ -12,6 +12,6 @@ public class webs {
     @GetMapping("/hello")
     @ResponseBody
     public String a(){
-        return "hello"+"mkl3";
+        return "hello"+"mkl4";
     }
 }
